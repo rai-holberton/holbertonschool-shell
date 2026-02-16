@@ -10,3 +10,4 @@ This project contains scripts to handle permissions in Linux.
 * **8-James_Bond**: Sets permissions to 007 (--- --- rwx) for the file hello.
 * **9-John_Doe**: Sets the permissions of 'hello' to 753 (-rwxr-x-wx).
 * **10-mirror_permissions**: Sets the permissions of 'hello' to match those of 'olleh'.
+* **11-directories_permissions**: Adds execute permission to all subdirectories in the current directory for all users, without affecting regular files.
