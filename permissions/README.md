@@ -11,3 +11,4 @@ This project contains scripts to handle permissions in Linux.
 * **9-John_Doe**: Sets the permissions of 'hello' to 753 (-rwxr-x-wx).
 * **10-mirror_permissions**: Sets the permissions of 'hello' to match those of 'olleh'.
 * **11-directories_permissions**: Adds execute permission to all subdirectories in the current directory for all users, without affecting regular files.
+* **12-directory_permissions**: Creates a directory called 'my_dir' with permissions 751.
