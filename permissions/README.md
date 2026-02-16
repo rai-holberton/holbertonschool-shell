@@ -8,3 +8,4 @@ This project contains scripts to handle permissions in Linux.
 * **6-multiple_permissions**: Adds execute permission to owner and group, and read permission to others for the file hello.
 * **7-everybody**: Adds execution permission to owner, group and others for the file hello.
 * **8-James_Bond**: Sets permissions to 007 (--- --- rwx) for the file hello.
+* **9-John_Doe**: Sets the permissions of 'hello' to 753 (-rwxr-x-wx).
