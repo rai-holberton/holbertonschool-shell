@@ -14,3 +14,4 @@ This project contains scripts to handle permissions in Linux.
 * **12-directory_permissions**: Creates a directory called 'my_dir' with permissions 751.
 * **13-change_group**: Changes the group owner of the file 'hello' to 'school'.
 * **14-change_owner_and_group**: Changes the owner to vincent and the group to staff for all files and directories.
+* **15-symbolic_link_permissions**: Changes owner and group of the symbolic link '_hello' without affecting the target file.
