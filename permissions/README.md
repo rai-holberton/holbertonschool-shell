@@ -6,3 +6,4 @@ This project contains scripts to handle permissions in Linux.
 * **4-empty**: Script that creates an empty file called hello.
 * **5-execute**: Adds execute permission to the owner of the file hello.
 * **6-multiple_permissions**: Adds execute permission to owner and group, and read permission to others for the file hello.
+* **7-everybody**: Adds execution permission to owner, group and others for the file hello.
