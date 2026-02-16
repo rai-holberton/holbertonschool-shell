@@ -13,3 +13,4 @@ This project contains scripts to handle permissions in Linux.
 * **11-directories_permissions**: Adds execute permission to all subdirectories in the current directory for all users, without affecting regular files.
 * **12-directory_permissions**: Creates a directory called 'my_dir' with permissions 751.
 * **13-change_group**: Changes the group owner of the file 'hello' to 'school'.
+* **14-change_owner_and_group**: Changes the owner to vincent and the group to staff for all files and directories.
