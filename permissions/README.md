@@ -9,3 +9,4 @@ This project contains scripts to handle permissions in Linux.
 * **7-everybody**: Adds execution permission to owner, group and others for the file hello.
 * **8-James_Bond**: Sets permissions to 007 (--- --- rwx) for the file hello.
 * **9-John_Doe**: Sets the permissions of 'hello' to 753 (-rwxr-x-wx).
+* **10-mirror_permissions**: Sets the permissions of 'hello' to match those of 'olleh'.
