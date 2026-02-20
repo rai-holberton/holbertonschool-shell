@@ -1,0 +1,1 @@
+Ce projet porte sur la configuration de l'environnement Shell (Bash), la manipulation des variables, les expansions et la création d'alias. L'objectif est de comprendre comment le Shell initialise ses paramètres et comment automatiser des tâches simples via des scripts.
